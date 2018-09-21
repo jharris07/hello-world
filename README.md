@@ -1,2 +1,3 @@
 # hello-world
 this is for lab0
+my name is jon.  this is for elen239B with Dr Ogunfunmi.  this is not my first rodeo....
